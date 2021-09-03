@@ -1,4 +1,4 @@
-# CSU Vaisala RS41 L0–L1 csv
+# CSU Vaisala RS41 L0–L1 csv (in batch mode)
 
 Convert Level-0 Vaisala RS41 radiosonde at CSU from L0 data (edt) to L1 csv format file for general usage.
 The output ascii file can be directly imported to ASPEN for further QC procedures. Note that **the CSU Vaisala MW41 system for RS41 radiosonde exports the edt-format file in its own specific format.**
